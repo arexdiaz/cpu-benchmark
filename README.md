@@ -1,2 +1,6 @@
 # cpu-benchmark
-Sample text
+
+sample text
+```bash
+g++ -mavx -mavx2 -O3 benchmark.cpp -o benchmark
+```
