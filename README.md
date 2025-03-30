@@ -1,1 +1,2 @@
 # cpu-benchmark
+Sample text
